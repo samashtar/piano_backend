@@ -23,6 +23,7 @@ ActiveRecord::Schema.define(version: 2018_11_08_142956) do
 
   create_table "songs", force: :cascade do |t|
     t.string "name"
+    t.string "data"
     t.string "user_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
