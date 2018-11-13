@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Models/Resources:
 
-Things you may want to cover:
+- User
+  - Name
+  - UserName
+  - PassWord
+- Songs
 
-* Ruby version
+  - Name
+  - Length
+  - User_Id
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Notes
+  - Name - string
+    A, A#, B, C, C#, D, D#, E, F, F#, G, G#
