@@ -8,7 +8,7 @@ MIDIRO
 
 <h4 align="center">An Interactive Midi Piano with over 120 different instruments. </h4>
 
-<h6>** this is the back-end, for front-end go <a href="https://github.com/samashtar/virtualpiano">here</a> </h6>
+<h6>** this is the back-end, for front-end go <a href="https://github.com/samashtar/midiro">here</a> </h6>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -38,10 +38,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com)
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/samashtar/virtualpiano
+$ git clone https://github.com/samashtar/midiro
 
 #now cd into the folder
-$ cd virtualpiano
+$ cd midiro
 
 # install dependencies and run it
 $ npm i && npm start
